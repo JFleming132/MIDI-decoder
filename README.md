@@ -19,6 +19,7 @@ Create: https://www.curseforge.com/minecraft/mc-mods/create
 ComputerCraft: Tweaked: https://modrinth.com/mod/cc-tweaked
 Both of these mods include extensive documentation, either in-game or via their website.
 
+Included in this repository is also an example MIDI file of Song of Storms from The Legend of Zelda: Ocarina of Time. I found it to be a really good example to show off the project. It was sourced from https://bitmidi.com/the-legend-of-zelda-ocarina-of-time-song-of-storms-mid.
 Expect an example world file and a video demonstration in future builds.
 
 To create your own steam pipe organ:
