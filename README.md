@@ -15,8 +15,11 @@ If and only if a note's array is not empty will the note play. This way, multipl
 
 # Tutorial
 To recreate this project, you will need Python, the MIDIFile python library, Minecraft, the Create mod, and the ComputerCraft: Tweaked mod. Links to those mods are here:
+
 Create: https://www.curseforge.com/minecraft/mc-mods/create
+
 ComputerCraft: Tweaked: https://modrinth.com/mod/cc-tweaked
+
 Both of these mods include extensive documentation, either in-game or via their website.
 
 Included in this repository is also an example MIDI file of Song of Storms from The Legend of Zelda: Ocarina of Time. I found it to be a really good example to show off the project. It was sourced from https://bitmidi.com/the-legend-of-zelda-ocarina-of-time-song-of-storms-mid.
